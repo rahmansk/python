@@ -38,4 +38,4 @@
 - Game Development
 
 
-:tw-270b: Check This Out - [AskPython !!](https://www.askpython.com/python-programming "AskPython")
+Check This Out ‼ - [AskPython !!](https://www.askpython.com/python-programming "AskPython")
