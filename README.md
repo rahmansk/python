@@ -2,10 +2,6 @@
 
 ![](https://www.python.org/static/img/python-logo.png)
 
-# PYTHON TUTORIAL 🐍 !!
-
-![](https://www.python.org/static/img/python-logo.png)
-
 #### Why learn Python Programming?
 *Some of the benefits of Python programming language are:*
 
