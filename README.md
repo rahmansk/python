@@ -1,2 +1,2 @@
-# python
+# PYTHON 🐍
 PYTHON - BEGINNER TO ADVANCE
